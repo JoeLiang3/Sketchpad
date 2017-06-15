@@ -1,0 +1,1 @@
+Sketchpad project created using Javascript and Jquery
