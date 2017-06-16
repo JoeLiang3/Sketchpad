@@ -1,8 +1,11 @@
 #main{
+	width:400px;
+	height:400px;
 	margin-left: 35%;
+	border-style: solid;
+	border-color: black;
 }
-#grid{
-	background-color: black;
+.grid{
 	display: inline-block;
 }
 
